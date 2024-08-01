@@ -1,35 +1,42 @@
-# AIRST 1.0
+# HealthPDFAgent 1.0
 
 <br>
 
-![](https://raw.githubusercontent.com/pham0084/finalfantasyxv/main/Thumbnail.jpeg)
-
 <p>
   
-# Welcome to our AI-powered research paper summarization tool!
+HealthPDFAgent: Your AI Research Assistant
 
-Get concise and informative summaries of research papers with just a few clicks using our tool! Designed to save you time and effort, it accurately summarizes content-heavy papers and highlights the shortened main points. Say goodbye to lengthy reading and hello to efficient research!
+Tired of spending hours reading through lengthy research papers? HealthPDFAgent is here to help!
 
-## Getting started
-Getting started is easy. All you need to do is upload your paper, and our advanced AI algorithm will extract the most important information for you. Our algorithm uses advanced natural language processing techniques to identify the key concepts, ideas, and findings presented in the paper, and condenses them into a succinct and coherent summary presented in text. Plus, you can even get a pptx file with the main points for more effective visualization. 
+Key Features
 
-Our tool is user-friendly and accessible to anyone who needs to understand research papers quickly and efficiently. Whether you're a student, researcher, or professional, our tool can help you save time and effort by providing you with a summary of the paper's main ideas and findings.
+Fast, Accurate Summaries: Get concise summaries of research papers in just a few clicks.
+Key Points Highlighted: Easily identify the most important findings and takeaways.
+Easy to Use: Simply upload your PDF, and our AI will do the rest.
+Versatile: Works with research from various fields (science, medicine, social sciences, etc.).
+How It Works
 
-## Versatile tool
-Our tool is designed to work with research papers from a variety of fields and disciplines, including but not limited to science, engineering, medicine, social sciences, and humanities. Whether you need to quickly understand the main findings of a paper for your own research or to communicate the highlights of a paper to your colleagues, our tool can help.
+Our advanced AI algorithm uses natural language processing techniques to analyze your research paper. It identifies the key concepts, ideas, and findings, then condenses them into a clear and coherent summary. You'll even get a PowerPoint file with the main points for easy visualization and sharing!
 
-Our algorithm is constantly learning and improving, so you can be sure that you're getting the most accurate and up-to-date summary of the paper's main ideas and findings.
+Who Can Benefit
 
-## Limitations
-Please note that while our tool is highly accurate and reliable, it is not intended to replace the need for reading and understanding the full paper (only able to summarize it). Our summarization is meant to provide a quick overview of the main ideas and findings presented in the paper, and should be used as a supplement to your own reading and analysis.
+HealthPDFAgent is perfect for:
 
+Students: Quickly grasp the main points of papers for assignments and studying.
+Researchers: Speed up literature reviews and stay on top of the latest findings.
+Professionals: Efficiently digest research to inform your work and decision-making.
+Get Started
 
-## Features
-- Summarizes academic papers
-- Answers health-related questions
-- Upload PDFs
-- Natural language processing techniques
-- Feedback section for improvement
+Upload your research paper (PDF format).
+Let our AI do its magic!
+Receive a concise summary and a PowerPoint presentation of the key points.
+Limitations
+
+While HealthPDFAgent is highly accurate, it's not a replacement for reading the full paper. Use the summaries as a starting point for your own research and analysis.
+
+We're Constantly Improving!
+
+Our AI is always learning and getting better. We welcome your feedback to help us make HealthPDFAgent even more useful for you.
 
 
 ## Installation
@@ -58,7 +65,7 @@ We hope you like it!
   
 ## Usage
   
-1. Upload a healthcare-related academic paper in PDF format
+1. Upload a healthcare-related academic paper or document in PDF format
   
 2. The app generates a summary of the key findings and conclusions of the paper using natural language processing techniques
   
